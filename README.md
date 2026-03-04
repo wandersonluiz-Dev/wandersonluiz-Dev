@@ -9,7 +9,7 @@ Sou desenvolvedor Back-End Java em constante evolução, com foco na construçã
 
 ## 🌐 Onde me encontrar
 
-<p>  <a href="https://https://www.instagram.com/_wandersonluizr/">
+<p>  <a href="https://www.instagram.com/@_wandersonluizr/">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/wanderson-luiz-239719398/">
@@ -45,14 +45,14 @@ Sou desenvolvedor Back-End Java em constante evolução, com foco na construçã
 ### Backend
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
 ### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
@@ -60,10 +60,11 @@ Sou desenvolvedor Back-End Java em constante evolução, com foco na construçã
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wandersonluiz-Dev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonluiz-Dev&layout=compact&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats
+
+![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api?username=wandersonluiz-Dev&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonluiz-Dev&layout=compact&theme=tokyonight)
 
 ---
 
