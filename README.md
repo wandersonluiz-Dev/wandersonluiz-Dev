@@ -60,13 +60,10 @@ Sou desenvolvedor Back-End Java em constante evolução, com foco na construçã
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api?username=wandersonluiz-Dev&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonluiz-Dev&layout=compact&theme=tokyonight)
-
-</div>
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonluiz-Dev&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonluiz-Dev&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -74,3 +71,4 @@ Sou desenvolvedor Back-End Java em constante evolução, com foco na construçã
 
 > _"Somos o que fazemos repetidas vezes. 
 > A excelência não é um ato mas sim um habito."_
+
