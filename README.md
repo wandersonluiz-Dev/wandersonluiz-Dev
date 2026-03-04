@@ -60,11 +60,13 @@ Sou desenvolvedor Back-End Java em constante evolução, com foco na construçã
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+<div align="center">
 
 ![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api?username=wandersonluiz-Dev&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonluiz-Dev&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
