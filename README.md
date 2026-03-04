@@ -9,8 +9,8 @@ Sou desenvolvedor Back-End Java em constante evolução, com foco na construçã
 
 ## 🌐 Onde me encontrar
 
-<p>  <a href="https://instagram.com/_wandersonluizr_">
-    <img src="https://img.shields.io/badge/Instagram-@wandersonluizr_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<p>  <a href="https://www.instagram.com/@_wandersonluizr/">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/wanderson-luiz-239719398/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -71,4 +71,3 @@ Sou desenvolvedor Back-End Java em constante evolução, com foco na construçã
 
 > _"Somos o que fazemos repetidas vezes. 
 > A excelência não é um ato mas sim um habito."_
-
