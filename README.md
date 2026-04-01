@@ -56,14 +56,6 @@ Sou desenvolvedor Back-End Java em constante evolução, com foco na construçã
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonluiz-Dev&layout=compact&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonluiz-Dev&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
