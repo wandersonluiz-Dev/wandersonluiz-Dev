@@ -18,6 +18,7 @@ Atualmente aprofundando conhecimentos em:
 Arquitetura de sistemas backend
 Boas práticas de desenvolvimento (clean code e organização de projetos)
 Integração entre serviços e introdução a mensageria e fluxos distribuídos
+
 ---
 
 ## 🌐 Onde me encontrar
