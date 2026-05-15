@@ -3,18 +3,33 @@
 🚀 **Desenvolvedor Backend java**  
 🇧🇷 Brasil
 
-Sou desenvolvedor Back-End Java em constante evolução, com foco na construção de APIs REST, aplicação de boas práticas de código e desenvolvimento de sistemas robustos e escaláveis. Atualmente sigo uma trilha profissional estruturada em Back-End Java, aprofundando conhecimentos desde os fundamentos da linguagem até tecnologias amplamente utilizadas no mercado
+Desenvolvedor backend com foco em Java e no ecossistema Spring, direcionando os estudos para a construção de aplicações robustas, escaláveis e alinhadas a boas práticas de mercado, especialmente no contexto de sistemas corporativos.
 
+Atualmente desenvolvo APIs REST com Spring Boot, aplicando conceitos de arquitetura em camadas (Controller, Service e Repository), integração com banco de dados relacional e princípios de orientação a objetos. Tenho atenção especial à organização do código, legibilidade e manutenção de sistemas.
+
+Possuo experiência com:
+Java (POO, Collections e tratamento de exceções)
+Spring Boot (APIs REST, validação e estrutura em camadas)
+JPA/Hibernate
+PostgreSQL/MySQL
+Git e controle de versionamento
+
+Atualmente aprofundando conhecimentos em:
+Arquitetura de sistemas backend
+Boas práticas de desenvolvimento (clean code e organização de projetos)
+Integração entre serviços e introdução a mensageria e fluxos distribuídos
 ---
 
 ## 🌐 Onde me encontrar
 
-<p>  <a href="https://www.instagram.com/@_wandersonluizr/">
+<p>
+  <a href="https://www.instagram.com/@_wandersonluizr/">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/wanderson-luiz-239719398/">
+  </a>
+  <a href="https://www.linkedin.com/in/wanderson-luiz-239719398/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </p>
+  </a>
+</p>
 
 ---
 
@@ -29,10 +44,6 @@ Sou desenvolvedor Back-End Java em constante evolução, com foco na construçã
 🔐 Implemento autenticação e controle de acesso com Spring Security.
 
 📦 Desenvolvo projetos aplicando Collections, Streams e Estruturas de Dados.
-
-🧪 Estudo e aplico testes automatizados para garantir qualidade e confiabilidade no código.
-
-🐳 Utilizo Docker para conteinerização de aplicações.
 
 📡 Estou aprofundando conhecimentos em Microsserviços e Mensageria (RabbitMQ e Kafka).
 
