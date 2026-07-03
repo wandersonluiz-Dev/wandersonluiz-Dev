@@ -1,76 +1,67 @@
-# Olá 👋, sou Wanderson Luiz
+<h1 align="center">Olá, eu sou o Wanderson Luiz 👋</h1>
 
-🚀 **Desenvolvedor Backend java**  
-🇧🇷 Brasil
+<p align="center">
 
-Desenvolvedor backend com foco em Java e no ecossistema Spring, direcionando os estudos para a construção de aplicações robustas, escaláveis e alinhadas a boas práticas de mercado, especialmente no contexto de sistemas corporativos.
+```java
+public class WandersonLuiz {
 
-Atualmente desenvolvo APIs REST com Spring Boot, aplicando conceitos de arquitetura em camadas (Controller, Service e Repository), integração com banco de dados relacional e princípios de orientação a objetos. Tenho atenção especial à organização do código, legibilidade e manutenção de sistemas.
+    public static void main(String[] args) {
+        System.out.println("Building REST APIs with Java & Spring Boot 🚀");
+    }
 
-Possuo experiência com:
-Java (POO, Collections e tratamento de exceções)
-Spring Boot (APIs REST, validação e estrutura em camadas)
-JPA/Hibernate
-PostgreSQL/MySQL
-Git e controle de versionamento
+}
+```
 
-Atualmente aprofundando conhecimentos em:
-Arquitetura de sistemas backend
-Boas práticas de desenvolvimento (clean code e organização de projetos)
-Integração entre serviços e introdução a mensageria e fluxos distribuídos
+</p>
 
----
-
-## 🌐 Onde me encontrar
-
-<p>
-  <a href="https://www.instagram.com/_wandersonluizr/">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/wanderson-luiz-239719398/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p align="center">
+Desenvolvedor Back-End • Java • Spring Boot
 </p>
 
 ---
 
-##  🚀 O que faço
+## 👨‍💻 Sobre
 
-☕ Desenvolvo aplicações Back-End utilizando Java e Programação Orientada a Objetos.
-
-🌱 Construo APIs REST com Spring Boot, aplicando arquitetura em camadas e boas práticas de código.
-
-🗄️ Trabalho com persistência de dados usando JPA/Hibernate, integrando com PostgreSQL e MySQL.
-
-🔐 Implemento autenticação e controle de acesso com Spring Security.
-
-📦 Desenvolvo projetos aplicando Collections, Streams e Estruturas de Dados.
-
-📡 Estou aprofundando conhecimentos em Microsserviços e Mensageria (RabbitMQ e Kafka).
-
-☁️ Estudo fundamentos de AWS (EC2, S3 e RDS) e deploy de aplicações.
+- 💻 Desenvolvedor Back-End com foco em **Java** e no ecossistema **Spring**.
+- 🚀 Desenvolvimento de APIs REST utilizando **Java 17**, **Spring Boot**, **Spring Security**, **Spring Data JPA**, **Hibernate**, **PostgreSQL**, **JWT** e **Flyway**.
+- 🔐 Experiência prática com autenticação e autorização utilizando **Spring Security** e **JWT**, além de documentação de APIs com **Swagger/OpenAPI**.
+- 📚 Atualmente aprofundando conhecimentos em **Docker**, **Microsserviços** e **Arquitetura de Software**.
+- 🎯 Em busca da minha primeira oportunidade como **Desenvolvedor Back-End Java**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-### Backend
+<p align="center">
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,maven,git,github,idea,postman" />
 
-### DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-
+</p>
 
 ---
 
-## 🚀 Philosophy
+## 📊 GitHub Stats
 
-> _"Somos o que fazemos repetidas vezes. 
-> A excelência não é um ato mas sim um habito."_
+<p align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wandersonluiz-Dev&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonluiz-Dev&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/wanderson-luiz-239719398">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:wandersonluiz200@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
