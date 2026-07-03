@@ -42,10 +42,9 @@ Desenvolvedor Back-End • Java • Spring Boot
 
 ## 📊 GitHub Stats
 
-## 🚀 Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,maven,git,github,idea,postman" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wandersonluiz-Dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonluiz-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
