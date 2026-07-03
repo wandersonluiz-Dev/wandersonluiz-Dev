@@ -40,15 +40,6 @@ Desenvolvedor Back-End • Java • Spring Boot
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wandersonluiz-Dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonluiz-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📫 Contato
 
 <p align="center">
