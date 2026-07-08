@@ -26,7 +26,6 @@ Desenvolvedor Back-End • Java • Spring Boot
 - 🚀 Desenvolvimento de APIs REST utilizando **Java 17**, **Spring Boot**, **Spring Security**, **Spring Data JPA**, **Hibernate**, **PostgreSQL**, **JWT** e **Flyway**.
 - 🔐 Experiência prática com autenticação e autorização utilizando **Spring Security** e **JWT**, além de documentação de APIs com **Swagger/OpenAPI**.
 - 📚 Atualmente aprofundando conhecimentos em **Docker**, **Microsserviços** e **Arquitetura de Software**.
-- 🎯 Em busca da minha primeira oportunidade como **Desenvolvedor Back-End Java**.
 
 ---
 
